@@ -36,3 +36,8 @@ The representation of the project workflow is presented below:
 * **Back Function:** A single dedicated interrupt button allows the user to return to the previous menu.
 * **Inputs:** ADC (Thermistor, Photodiode, Potentiometer), 8-bit Switches, Rotary Encoder, and Push Buttons.
 * **Outputs:** OLED Display, 8-LED Ring.
+
+* ## Software & Development Tools
+* **IDE:** MCUXpresso IDE
+* **Configuration:** All peripheral initialization (Clock, ADC, CTIMER, I2C) and GPIO/Pin Muxing were configured using the **MCUXpresso Config Tools**.
+* **SDK:** NXP SDK for MCX-N947 (Cortex-M33).
