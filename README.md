@@ -3,7 +3,7 @@ Interactive system on an MCXN947 with 4-menu OLED interface. Option 1: thermisto
 
 ## WORKFLOW REPRESENTATION
 The representation of the project workflow is presented below:
-![WORKFLOW REPRESENTATION](images/workf.drawio.png)
+![WORKFLOW REPRESENTATION](images/work.drawio.png)
 
 ## Project Features
 
